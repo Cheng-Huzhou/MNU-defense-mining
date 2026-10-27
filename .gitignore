@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+.DS_Store
+*.zip
+genomes/
+drep_out/
+*_tmp/
+ecoli_db*
+mmseqs_tmp/
+*.faa
+*.fna
+*.gff
+*.gff.gz
+nr/
+data/
